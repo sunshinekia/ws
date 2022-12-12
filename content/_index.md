@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Sunshine Kia of Miami
 date: 2022-10-24
 type: landing
 
@@ -44,7 +44,7 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Cars
       items:
         - name: R
           description: 90%
